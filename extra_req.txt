@@ -1,0 +1,2 @@
+Max. velocity: 5 m/s
+Max. act. force: 100 N
